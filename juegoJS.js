@@ -75,4 +75,3 @@ class Juego {
 function empezarJuego() {
   window.juego = new Juego()
 }
-hola
